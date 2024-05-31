@@ -1,0 +1,3 @@
+[submodule "src/RateQueue"]
+	path = src/RateQueue
+	url = https://github.com/xcvbwer123-rs/RateQueue

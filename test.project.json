@@ -1,0 +1,14 @@
+{
+    "name": "BadgeManager",
+    "tree": {
+        "$className": "DataModel",
+
+        "ReplicatedStorage": {
+            "$className": "ReplicatedStorage",
+
+            "BadgeManager": {
+                "$path": "src"
+            }
+        }
+    }
+}
