@@ -1,6 +1,5 @@
 --// Services
 local Players = game:GetService("Players")
-local RunService = game:GetService("RunService")
 local BadgeService = game:GetService("BadgeService")
 
 --// Variables
